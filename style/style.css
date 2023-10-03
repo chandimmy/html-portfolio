@@ -1,0 +1,6 @@
+body{background-colored}
+ul{color: red; list-style-type: none;}
+ol{color:green;}
+.row{
+  display: flex;
+}
